@@ -13,3 +13,4 @@ long fact(int n ){
 main(){
     printf("Factorial of 5 is %d",fact(5));
 }
+
